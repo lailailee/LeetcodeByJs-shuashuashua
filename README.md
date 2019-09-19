@@ -1,2 +1,1 @@
-# leetcodeByJs-shuashuashua
-使用javascript刷leetcode题并概括出解题思路
+## 解答目录
