@@ -8,4 +8,4 @@
 
 - [66] 加一 (Plus One) | [Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B66%5D%20%E5%8A%A0%E4%B8%80.md) | [Blog](https://blog.lailailee.com/2019/09/21/2019-09-21-%E7%AE%97%E6%B3%95-[66]%20%E5%8A%A0%E4%B8%80/)
 
-- [696] 计数二进制子串(Count Binary Substrings)|[Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B696%5D%20%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.md)| [Blog](http://localhost:4000/2019/09/30/2019-09-30-%E7%AE%97%E6%B3%95-[696]%20%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2/)
+- [696] 计数二进制子串(Count Binary Substrings)|[Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B696%5D%20%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.md)| [Blog](https://blog.lailailee.com/2019/09/30/2019-09-30-%E7%AE%97%E6%B3%95-[696]%20%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2/)
