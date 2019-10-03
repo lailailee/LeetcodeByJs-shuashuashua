@@ -10,6 +10,9 @@
 
 - [66] 加一 (Plus One) | [Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B66%5D%20%E5%8A%A0%E4%B8%80.md) | [Blog](https://blog.lailailee.com/2019/09/21/2019-09-21-%E7%AE%97%E6%B3%95-[66]%20%E5%8A%A0%E4%B8%80/)
 
+- [459] 重复的子字符串(Repeated Substring Pattern)|[Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B459%5D%20%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)| [Blog](https://blog.lailailee.com/2019/10/04/2019-10-04-%E7%AE%97%E6%B3%95-[459]%20%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2/)
+
+
 - [557] 反转字符串中的单词 III(Reverse Words in a String III)|[Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B557%5D%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.md)| [Blog](https://blog.lailailee.com/2019/09/29/2019-09-29-%E7%AE%97%E6%B3%95-[557]%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/)
 
 - [605] 种花问题(Can Place Flowers)|[Github](https://github.com/lailailee/LeetcodeByJs-shuashuashua/blob/master/problems/%5B605%5D%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)| [Blog](https://blog.lailailee.com/2019/10/02/2019-10-01-%E7%AE%97%E6%B3%95-[605]%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98/)
